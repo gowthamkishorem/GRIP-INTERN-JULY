@@ -1,0 +1,2 @@
+# GRIP-INTERN-JULY
+COMPUTER VISION &amp; IOT TASK 2 - Color Identificatiom
