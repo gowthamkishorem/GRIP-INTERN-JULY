@@ -5,7 +5,7 @@ Implement an image color detector which identifies all the colors in an image.
 Mahadasu Gowtham Kishore
 
 ### Date
-13-07-2021
+21-07-2021
 
 ### Programming Language
 Python
